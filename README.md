@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MJ (0x4A4B)</h1>
-<h3 align="center">A young programmer from Australia 🇦🇺</h3>
+<h3 align="center">A programmer from Australia 🇦🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x4a4b&label=Profile%20views&color=0e75b6&style=flat" alt="0x4a4b" /> </p>
 
