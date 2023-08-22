@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritso (Ritsop)</h1>
+<h1 align="center">Hi 👋, I'm Myles</h1>
 <h3 align="center">A programmer from Australia 🇦🇺</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0x4a4b&label=Profile%20views&color=0e75b6&style=flat" alt="0x4a4b" /> </p>
